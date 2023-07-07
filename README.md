@@ -87,6 +87,7 @@ Our social's💻
 </div>
 
  * [EXPO Team Discord] **https://discord.gg/NuSUCJgn**
+ * [My official github] **https://github.com/lasse495/ExpoDDos**
 ### If u Like the project, leave a star on the repository!
 
 ## Downloads
