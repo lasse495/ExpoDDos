@@ -4,7 +4,7 @@
 <em><h5 align="center">(Programming Language - Javascript)</h5></em>
 
   
-<p align="center">Please Don't Attack websites without the owners consent.</p>
+<p align="center">Please Don't Attack anyone or anything without the owners consent.</p>
 
 
 ## Features And Methods
